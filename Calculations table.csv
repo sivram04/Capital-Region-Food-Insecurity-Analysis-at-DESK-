@@ -1,0 +1,48 @@
+Row Labels,"Average Coverage Rate (2014, %)","Average Coverage Rate (2015, %)",,,Row Labels,Sum of F15_FI_RATE,Average of F14_FI_RATE
+DC,30.62%,24.32%,,,DC,29.7,16.05428571
+MD,34.87%,35.35%,,,MD,51.482,12.06361502
+VA,34.51%,40.33%,,,VA,29.809,7.169406393
+Grand Total,100.00%,100.00%,,,(blank),,
+,,,,,Grand Total,110.991,10.67256978
+,,,,,,,
+Row Labels,Sum of F14_LB_UNME,,,,,,
+DC,8286586,,,,Row Labels,Average of Coverage_Pct_2015,Average of Poverty_Rate
+MD,31268380,,,,Q1 (Lowest),44.73849802,0.189634615
+VA,21796177,,,,Q2,34.86464494,0.088911538
+(blank),,,,,Q3,29.66202949,0.055490347
+Grand Total,61351143,,,,Q4 (Highest),24.05292614,0.031653846
+,,,,,Grand Total,33.33305448,0.09145717
+,,,,,,,
+,,,,,,,
+Row Labels,Total Food-Insecure People (2015),Total Population,,,Row Labels,Average of Unemployment_Rate,Average of F15_FI_RATE
+DC,97115,609222,,,DC,13.20%,17.00%
+MD,211827,1827466,,,MD,8.10%,12.10%
+VA,135431,1938897,,,VA,5.10%,6.80%
+(blank),,,,,(blank),,
+Grand Total,444374,4375585,,,Grand Total,7.70%,10.70%
+,,,,,,,
+,,,,,,,
+Row Labels,Sum of Black_Pct,Sum of F15_FI_RATE,,,Row Labels,Average of F15_FI_RATE,Average of Homeownership_Pct
+DC,98,29.7,,,DC,17.00%,43.10%
+MD,182,51.482,,,MD,12.10%,66.50%
+VA,56,29.809,,,VA,6.80%,67.30%
+(blank),,,,,(blank),,
+Grand Total,336,110.991,,,Grand Total,10.70%,62.90%
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Sum of F15_DISTRIB,Sum of Total_Pop,,Row Labels,Sum of F15_DISTRIB,Sum of F15_Pounds_Needed,
+DC,10488719.53,609222,,DC,10488719.53,20394243.19,
+MD,14065548.19,1827466,,MD,14065548.19,44483755.94,
+VA,9475497.202,1938897,,VA,9475497.202,28440521.95,
+(blank),,,,(blank),,,
+Grand Total,34029764.92,4375585,,Grand Total,34029764.92,93318521.07,
+,,,,,,,
+,,,,,,,
+Row Labels,Average of Coverage_Pct_2014,Average of Coverage_Pct_2015,,Row Labels,Average of Median_Income,Average of F15_DISTRIB,
+DC,52.91815491,48.1359576,,Q1 (Lowest),50446.31923,69592.87276,
+MD,24.75301431,28.74027364,,Q2,80052.21154,33944.56066,
+VA,23.82612748,31.88560378,,Q3,105883.749,19132.2183,
+(blank),,,,Q4 (Highest),158999.3077,8287.644969,
+Grand Total,29.10616462,33.33305448,,(blank),,,
+,,,,Grand Total,98838.62271,32752.42052,
